@@ -16,6 +16,6 @@
 
 Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday
 |---|---|---|---|---|---|---|
-|Open climb|Woody||Woody||Woody||
-|Fingerboard|Weights|Rest|Core|Weights|Fingerboard|Rest|
-||Core||Fingeboard||Core||
+|Open climb|Woody|/|Woody|/|Woody|/|
+|Fingerboard|Weights|Rest|Fingerboard|Weights|Fingerboard|Rest|
+|/|Core|/|Core|/|Core|/|
