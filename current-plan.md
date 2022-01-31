@@ -1,8 +1,9 @@
 
 ## Weekly setup
+
 Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday
-|---|---|---|---|---|---|---|
-|Train|Mobility/HIIT|Train|Rest|Train|Train (optional)|Rest|
+---|---|---|---|---|---|---
+Train|Mobility/HIIT|Train|Rest|Train|Train (optional)|Rest
 
 ## Sessions
 
