@@ -1,1 +1,2 @@
-theme: jekyll-theme-midnight
+markdown: kramdon
+remote-theme: rowanoulton/travelog-theme
