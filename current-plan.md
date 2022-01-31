@@ -1,7 +1,100 @@
 
-
+## Weekly setup
 |Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
 |---|---|---|---|---|---|---|
-|Open climb|Woody|/|Woody|/|Woody|Easy|
-|Fingerboard|Weights|Rest|Fingerboard|Weights|Fingerboard|or|
-|/|Core|/|Core|/|Core|rest|
+|Train|Mobility/HIIT|Train|Rest|Train|Train (optional)|Rest|
+
+## Sessions
+
+```
+MONDAY (LIMIT DAY):
+
+- Warmup:
+  - 10 Jumping jacks, 10 side hops, 10 single leg hops each leg, 3 times
+  - mini leg blaster: 10 squats, 10 lunges, 10 jump lunges, 5 jump squats, fast push ups
+  - hangboard warmup: 8 second hang with 30 seconds - 60 seconds of rest
+      - hang with 75% weight off (in your feet)
+        8 single leg calf raises with weight
+        assisted lock off 120 degrees 5s on / 10s off, 3 times
+      - repeat the above at 50%, 25%, body weight, body weight, body weight
+   
+- Woody (pyramid):
+   - start 30s on / 30s off, 5 times (easy boulders)
+   - work the grades pyramid up till falling twice on the same grade
+   - work on the falling grade, aim to complete / project 3 of that grade
+   - max 75 minutes
+   
+- Fingerboard + strength
+   - Round 1: 7s on / 53s off, 20mm rung, 6 times (add weight to make set #6 challenging)
+   - 8 Bulgarian Split Squats each leg w/ weight
+     8 Single Arm Rows
+     30 second hollow body hold; 15 sec rest 2 times
+     4 times
+   - Round 2: 7s on / 53s off, 20mm rung, 6 times (add weight to make set #6 challenging)
+
+- Core
+```
+
+```
+TUESDAY (HIIT + MOBILITY):
+
+- Optional HIIT (15-20 minutes):
+  - 10 KB swings
+    5 goblet squats
+    25 row sit-ups
+    repeat 6 to 10 times
+   
+- Mobility (25 minutes):
+   - https://youtu.be/x-1OJW3OMb4
+```
+
+```
+WEDNESDAY (SKILL + MOVEMENT + STRENGTH):
+
+- Resting drill: pick a resting hold near a boulder that is challenging but completable and
+  rest there for 1 min then immediately do your boulder.
+   
+- Quality of movement: onn 3-6 boulders complete the boulder - assess quality and repeat until it's a 7 or up
+
+- Fun climbing finisher
+
+- Strength:
+   - Deadlifts at 85%
+   - Bench press at 85%
+   - 5 sets each
+   
+- Trx core 
+```
+
+```
+THURSDAY (REST DAY):
+
+- Rest day
+```
+
+```
+FRIDAY (PERFORMANCE DAY):
+
+- Either projects or quicksends
+    - quicksend 2-3 attempts
+    - project 4+ attempts
+```
+
+```
+SATURDAY (OPTIONAL DAY):
+
+- Climbing "open"
+
+- Strength:
+   - Endurance hangs: 20s on / 3m off, 20mm rung, add weight, 4 times
+   - Weighted pull-ups, 5 sets, 5 reps, 60/90s rest, add weight
+   - Single limb strength / deadlifts + bench presses
+   
+- Trx core
+```
+
+```
+SUNDAY (REST DAY):
+
+- Rest day
+```
