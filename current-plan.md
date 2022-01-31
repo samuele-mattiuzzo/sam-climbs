@@ -1,6 +1,6 @@
 
 ## Weekly setup
-|Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
+Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday
 |---|---|---|---|---|---|---|
 |Train|Mobility/HIIT|Train|Rest|Train|Train (optional)|Rest|
 
@@ -25,12 +25,12 @@ MONDAY (LIMIT DAY):
    - max 75 minutes
    
 - Fingerboard + strength
-   - Round 1: 7s on / 53s off, 20mm rung, 6 times (add weight to make set #6 challenging)
+   - Round 1: 7s on / 53s off, 20mm rung, 6 times
    - 8 Bulgarian Split Squats each leg w/ weight
      8 Single Arm Rows
      30 second hollow body hold; 15 sec rest 2 times
      4 times
-   - Round 2: 7s on / 53s off, 20mm rung, 6 times (add weight to make set #6 challenging)
+   - Round 2: 7s on / 53s off, 20mm rung, 6 times
 
 - Core
 ```
