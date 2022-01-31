@@ -38,6 +38,15 @@ MONDAY (LIMIT DAY):
 ```
 TUESDAY (HIIT + MOBILITY):
 
+- Warmup:
+  - 10 Jumping jacks, 10 side hops, 10 single leg hops each leg, 3 times
+  - mini leg blaster: 10 squats, 10 lunges, 10 jump lunges, 5 jump squats, fast push ups
+  - hangboard warmup: 8 second hang with 30 seconds - 60 seconds of rest
+      - hang with 75% weight off (in your feet)
+        8 single leg calf raises with weight
+        assisted lock off 120 degrees 5s on / 10s off, 3 times
+      - repeat the above at 50%, 25%, body weight, body weight, body weight
+
 - Optional HIIT (15-20 minutes):
   - 10 KB swings
     5 goblet squats
@@ -50,6 +59,15 @@ TUESDAY (HIIT + MOBILITY):
 
 ```
 WEDNESDAY (SKILL + MOVEMENT + STRENGTH):
+
+- Warmup:
+  - 10 Jumping jacks, 10 side hops, 10 single leg hops each leg, 3 times
+  - mini leg blaster: 10 squats, 10 lunges, 10 jump lunges, 5 jump squats, fast push ups
+  - hangboard warmup: 8 second hang with 30 seconds - 60 seconds of rest
+      - hang with 75% weight off (in your feet)
+        8 single leg calf raises with weight
+        assisted lock off 120 degrees 5s on / 10s off, 3 times
+      - repeat the above at 50%, 25%, body weight, body weight, body weight
 
 - Resting drill: pick a resting hold near a boulder that is challenging but completable and
   rest there for 1 min then immediately do your boulder.
@@ -75,6 +93,15 @@ THURSDAY (REST DAY):
 ```
 FRIDAY (PERFORMANCE DAY):
 
+- Warmup:
+  - 10 Jumping jacks, 10 side hops, 10 single leg hops each leg, 3 times
+  - mini leg blaster: 10 squats, 10 lunges, 10 jump lunges, 5 jump squats, fast push ups
+  - hangboard warmup: 8 second hang with 30 seconds - 60 seconds of rest
+      - hang with 75% weight off (in your feet)
+        8 single leg calf raises with weight
+        assisted lock off 120 degrees 5s on / 10s off, 3 times
+      - repeat the above at 50%, 25%, body weight, body weight, body weight
+
 - Either projects or quicksends
     - quicksend 2-3 attempts
     - project 4+ attempts
@@ -82,6 +109,15 @@ FRIDAY (PERFORMANCE DAY):
 
 ```
 SATURDAY (OPTIONAL DAY):
+
+- Warmup:
+  - 10 Jumping jacks, 10 side hops, 10 single leg hops each leg, 3 times
+  - mini leg blaster: 10 squats, 10 lunges, 10 jump lunges, 5 jump squats, fast push ups
+  - hangboard warmup: 8 second hang with 30 seconds - 60 seconds of rest
+      - hang with 75% weight off (in your feet)
+        8 single leg calf raises with weight
+        assisted lock off 120 degrees 5s on / 10s off, 3 times
+      - repeat the above at 50%, 25%, body weight, body weight, body weight
 
 - Climbing "open"
 
