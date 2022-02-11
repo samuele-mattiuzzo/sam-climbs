@@ -141,6 +141,8 @@ EXTRA S&C
 
 - 10 minutes 1kettlebell pyramid: 10,8,4,6,2 reps of squat/swing/push-up 
   (if less than 5 minutes, do it twice)
+- Kettlebell human burpees:
+  15 swings + 5/4/3/2/1 goblet squats + 5/4/3/2/1 push ups (no rest, quick)
 - 10/15 kettlebell swings EMOM for 30/20 minutes
 - prometheus: 10setsx5reps double kettlebell clean&military press
               5setsx10reps goblet squats 
