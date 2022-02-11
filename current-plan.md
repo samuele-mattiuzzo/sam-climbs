@@ -139,8 +139,12 @@ SUNDAY (REST DAY):
 ```
 EXTRA S&C
 
-- 10 minutes 1kettlebell pyramid: 10,8,4,6,2 reps of squat/swing/push-up (if less than 5 minutes, do it twice)
+- 10 minutes 1kettlebell pyramid: 10,8,4,6,2 reps of squat/swing/push-up 
+  (if less than 5 minutes, do it twice)
 - 10/15 kettlebell swings EMOM for 30/20 minutes
-- prometheus: 10setsx5reps double kettlebell clean&military press + 5setsx10reps goblet squats (rest 45/60s sets, 3 minutes between #1 and #2)
-- 10x10: 10 reps, 10 sets, bodyweight exercises (push ups, squats, seated leg raises, close grip push ups, lunges)
+- prometheus: 10setsx5reps double kettlebell clean&military press
+              5setsx10reps goblet squats 
+              (rest 45/60s sets, 3 minutes between #1 and #2)
+- 10x10: 10 reps, 10 sets, bodyweight exercises 
+         (push ups, squats, seated leg raises, close grip push ups, lunges)
 ```
