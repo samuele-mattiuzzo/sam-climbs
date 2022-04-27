@@ -1,7 +1,6 @@
 ## Long term goals
 
 - Boulder (woody and outdoors) V10+
-- Trad E5+ -> getting adjusted to the style of the Peak District
 - Sport climbing not fussed about, but would be good to work on it too to be a well-rounded climber
 
 ### Long term climbing goals
@@ -19,28 +18,22 @@
 
 - Boulder outdoor V7/V8
     - Start projecting some of these
-        - [Jerry's Roof Arete - Cromlech](https://www.ukclimbing.com/logbook/crags/cromlech_boulders-1635/jerrys_roof_arete-469303) (f7a+ / V7)
-        - [The Hippo - Stanage](https://www.ukclimbing.com/logbook/crags/stanage_plantation-101/the_hippo-29074) (f7a+ / V7)
-        - [Not To Be Taken Away - Stanage](https://www.ukclimbing.com/logbook/crags/stanage_plantation-101/not_to_be_taken_away-10078) (f6c / V5)
-        - [The Pendulum - Stanage](https://www.ukclimbing.com/logbook/crags/stanage_plantation-101/the_pendulum-149769#videos) (f7a / V6)
-        - [Bullworker - Stanage](https://www.ukclimbing.com/logbook/crags/stanage_plantation-101/bullworker-29092#photos) (f6b / V3)
-- Trad climbing - first leads / foray into E grades
-    - [Cenotaph Corner - Cromlech](https://www.ukclimbing.com/logbook/crags/dinas_cromlech-4/cenotaph_corner-3195) (E1 5c)
-    - [A Dream of White Horses - Gogarth](https://www.ukclimbing.com/logbook/crags/gogarth_north_stack_and_main_cliff-598/a_dream_of_white_horses-4360) (HVS 4c)
-    - [Downhill Racer - Froggat](https://www.ukclimbing.com/logbook/crags/froggatt_edge_derbyshire-22/downhill_racer-10947) (E4 6a)
-    - [Coronation Street - Cheddar Gorge](https://www.ukclimbing.com/logbook/crags/cheddar_gorge_south-240/coronation_street_ww-36044) (E1 5b)
-    - [Tombstone - Vicarage Cornwall](https://www.ukclimbing.com/logbook/crags/vicarage_cliff-692/tombstone-40284#overview) (S 4a)
+        - [ ] [Jerry's Roof Arete - Cromlech](https://www.ukclimbing.com/logbook/crags/cromlech_boulders-1635/jerrys_roof_arete-469303) (f7a+ / V7)
+        - [ ] [The Hippo - Stanage](https://www.ukclimbing.com/logbook/crags/stanage_plantation-101/the_hippo-29074) (f7a+ / V7)
+        - [ ] [Not To Be Taken Away - Stanage](https://www.ukclimbing.com/logbook/crags/stanage_plantation-101/not_to_be_taken_away-10078) (f6c / V5)
+        - [ ] [The Pendulum - Stanage](https://www.ukclimbing.com/logbook/crags/stanage_plantation-101/the_pendulum-149769#videos) (f7a / V6)
+        - [ ] [Bullworker - Stanage](https://www.ukclimbing.com/logbook/crags/stanage_plantation-101/bullworker-29092#photos) (f6b / V3)
+
 
 - Climb outdoors more than indoors for at least 6 months (weather permitting)
     - Boulder in the Peak Distric to get used to the style
-    - Go on easy trad routes to get confidence in leading them
 
-- Find and stick to a mobility / flexibility / stretch routine, weekly
+- [x] Find and stick to a mobility / flexibility / stretch routine, weekly
 
-- Improve my overall grip strength on varied holds and grip types
+- [ ] Improve my overall grip strength on varied holds and grip types
 
-- Improve my overall compression strength
+- [ ] Improve my overall compression strength
 
-- Improve my overall power and precision on the woody
+- [ ] Improve my overall power and precision on the woody
 
-- Enjoy more days out without chasing the grade
+- [ ] Enjoy more days out without chasing the grade
