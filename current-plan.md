@@ -21,7 +21,7 @@ WARMUP
 ```
 
 ```
-LIMIT:
+LIMIT / PROJECTING:
 - bouldering (projecting):
    - warm up properly
    - boulder up to limit level
@@ -35,10 +35,6 @@ LIMIT:
 
 ```
 LONG POWER ENDURANCE:
-- bouldering:
-   - volume climbs for 30-45 minutes
-   - aim to complete a color-coded circuit, nothing more than 1-2 attempts per boulder
-   - moderate level
 - circuits:
    - 1 or 2 laps, climb fast, no rest
    - work to rest ratio: 1 to 1
