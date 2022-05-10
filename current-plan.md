@@ -4,38 +4,24 @@
 Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday
 ---|---|---|---|---|---|---
 Push up, Swing, Chin up, Press, Squat(RF)|Squat, Swing, Chin up, Press, Push up(RF)|Squat, Push up, Chin up, Press, Swing(RF)|Squat, Push up, Swing, Press, Chin up(RF)|Squat, Push up, Swing, Chin up, Press(RF)|/|/
-Train|Mobility/Core|Train|Train|Mobility/Core|Train (optional)|Rest
-Fingerboard|/|Fingerboard|/|/|Fingerboard|Rest
+Train|Mobility|Train|Train|Mobility|Train (optional)|Rest
+Core|Fingerboard|Core|Fingerboard|/|Fingerboard|Rest
 
 ## Sessions
 
-```
-WARMUP
-  - 10 Jumping jacks, 10 side hops, 10 single leg hops each leg, 3 times
-  - mini leg blaster: 10 squats, 10 lunges, 10 jump lunges, 5 jump squats, fast push ups
-  - hangboard warmup: 8 second hang with 30 seconds - 60 seconds of rest
-      - hang with 75% weight off (in your feet)
-        8 single leg calf raises with weight
-        assisted lock off 120 degrees 5s on / 10s off, 3 times
-      - repeat the above at 50%, 25%, body weight, body weight, body weight
-```
 
 ```
 LIMIT / PROJECTING:
-- bouldering (projecting):
    - warm up properly
    - boulder up to limit level
    - pick steep boulders, small crimpy holds
    - max 3-5 attempts at project boulders (can almost complete)
    - roughly 1 hour, till warm
-- woody (limit):
-   - work on the falling grade, aim to complete / project 3 of that grade (struggle after 3-4 moves)
-   - max 40 minutes
+   - try really hard
 ```
 
 ```
 LONG POWER ENDURANCE:
-- circuits:
    - 1 or 2 laps, climb fast, no rest
    - work to rest ratio: 1 to 1
    - aim for 6 to 10 sets (12-20 laps)
@@ -44,7 +30,6 @@ LONG POWER ENDURANCE:
 
 ```
 RECOVERY ENDURANCE:
-- circuits:
    - 2 to 5 laps, controlled, good holds (grade 5/6)
    - rest on routes, long rests between sets
    - use to practice skills
@@ -74,11 +59,5 @@ CORE
     - 30-60s on, 30s off each
     - forward plank (4 sets)
     - lateral plank (3 sets x side)
-    - reverse hold (2 sets)
-    
-- Trx:
-    - 30-45s work, back to back exercises, rest 1 minute, 3-5 sets
-    - crunch
-    - plank (either with shoulder taps or arm raises)
-    - mountain climbers (either with hand-foot tap or wide lateral)
+    - reverse hold bicycle (2 sets)
 ```
