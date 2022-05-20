@@ -6,7 +6,7 @@ Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday
 Train|Mobility|Train|Train|Mobility|Train (optional)|Rest
 Core|Fingerboard|Core|Fingerboard|/|Fingerboard|Rest
 
-## Sessions
+### Sessions
 
 
 ```
