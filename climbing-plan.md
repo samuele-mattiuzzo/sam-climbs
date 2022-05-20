@@ -3,7 +3,6 @@
 
 Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday
 ---|---|---|---|---|---|---
-Push up, Swing, Chin up, Press, Squat(RF)|Squat, Swing, Chin up, Press, Push up(RF)|Squat, Push up, Chin up, Press, Swing(RF)|Squat, Push up, Swing, Press, Chin up(RF)|Squat, Push up, Swing, Chin up, Press(RF)|/|/
 Train|Mobility|Train|Train|Mobility|Train (optional)|Rest
 Core|Fingerboard|Core|Fingerboard|/|Fingerboard|Rest
 
