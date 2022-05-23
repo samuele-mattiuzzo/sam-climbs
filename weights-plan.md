@@ -18,9 +18,11 @@ TRAIN
 AERO
    - 1) 30 minutes KB swings (10 per minute) EMOM
      or
-   - 2) 2x double clean, 1x double press, 3x double squat, 10x swings (20-30 minutes, really short rests)
+   - 2) 15 KB swings, 5 goblet squat, 3 push ups x 5 - 10 sets (minimal rest between sets)
      or
-   - 3) 30 minutes of treadmill (steady or sprints), rowing machine (aim for 2ks) or long cycle day
+   - 3) 2x double clean, 1x double press, 3x double squat, 10x swings (20-30 minutes, really short rests)
+     or
+   - 4) 30 minutes of treadmill (steady or sprints), rowing machine (aim for 2ks) or long cycle day
    
 ```
 
