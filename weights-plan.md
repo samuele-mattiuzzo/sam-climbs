@@ -9,7 +9,7 @@ Train|Aero+Mobility|Train|Aero+Mobility|Train|Aero+Mobility|Rest
 TRAIN
    - Modified Prometheus protocol
      - 10 sets, 5 reps double KB clean and press
-     - 15-30 minutes swing/swing/squat EMOM
+     - 10 sets, 5 reps double KB front squat + 5 diamond push ups
      - If not too tired
        - 4sets, 6-10 reps chin ups
 ```
