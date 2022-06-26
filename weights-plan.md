@@ -3,7 +3,7 @@
 
 MON | TUE | WED | THU | FRI | SAT | SUN
 ---|---|---|---|---|---|---
-DFW + 300 swings|biceps/chest/rows + 300 swings + floor core|DFW + 300 swings|biceps/chest/rows + 300 swings + floor core|DFW + 300 swings|biceps/chest/rows + 300 swings + floor core|Rest
+DFW + 300 swings|accessories + 300 swings + core|DFW + 300 swings|accessories + 300 swings + core|DFW + 300 swings|accessories + 300 swings + core|rest
 
 
 ___ | Day 1 (M) | Day 2 (W) | Day 3 (F)
@@ -24,9 +24,11 @@ Dry Fighting Weight:
 ```
 
 ```
-Biceps/Chest/Rows/Swings:
+Accessories + swings + core:
 - 10 sets of as many reps as fatigue allows (RPE 8)
 - bicep curls with min 6 max 10 kg, floor press with min 10 max 18 kg, bent over rows with min 12 max 20kg
 - do the swings with double 12kg bells in as little sets as possible
+- for core either run the 45/15 x 12 floor core or russian twists / incline bench bent leg raises / crunches
+- alternatively check https://thefitness.wiki/routines/5-3-1-for-beginners/#Assistance_Work
 ```
 
