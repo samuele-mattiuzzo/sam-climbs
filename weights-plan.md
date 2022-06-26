@@ -1,43 +1,32 @@
 
-## Weekly setup
+## DFW - Kettleballs remix
 
-Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday
+MON | TUE | WED | THU | FRI | SAT | SUN
 ---|---|---|---|---|---|---
-Train|Aero+Mobility|Train|Aero+Mobility|Train|Aero+Mobility|Rest
+DFW + 300 swings|biceps/chest/rows + 300 swings + floor core|DFW + 300 swings|biceps/chest/rows + 300 swings + floor core|DFW + 300 swings|biceps/chest/rows + 300 swings + floor core|Rest
+
+
+___ | Day 1 (M) | Day 2 (W) | Day 3 (F)
+---|---|---|---
+Week 1 | Ladders 1, 2, 3 | Sets of 1 | Sets of 2
+Week 2 | Ladders 1, 2, 3 | Sets of 1 | Sets of 3
+Week 3 | Ladders 1, 2, 3, 4 | Sets of 2 | Sets of 3
+Week 4 | Ladders 1, 2, 3, 4 (5) | Sets of 2 | Sets of 2-3 alternate
+
+Warmup with 2-3 sets of halo into rotations (5 each side) followed by goblet squat with a 12kg bell (5 mins)
 
 ```
-TRAIN
-   - Modified Prometheus protocol
-     - 10 sets, 5 reps double KB clean and press
-     - 10 sets, 5 reps double KB front squat + 5 diamond push ups
-     - If not too tired
-       - 4sets, 6-10 reps chin ups
-```
-
-```
-AERO
-   - 1) 30 minutes KB swings (10 per minute) EMOM
-     or
-   - 2) 15 KB swings, 5 goblet squat, 3 push ups x 5 - 10 sets (minimal rest between sets)
-     or
-   - 3) 2x double clean, 1x double press, 3x double squat, 10x swings (20-30 minutes, really short rests)
-     or
-   - 4) 30 minutes of treadmill (steady or sprints), rowing machine (aim for 2ks) or long cycle day
-   
+Dry Fighting Weight:
+- set a timer for 30'
+- work with double bells (double 16kg, double 12kg or mixed, switching)
+- ladder 1 / sets of 1 -> C&p, (rest), fsq, put bells down and rest, repeat etc
+- complete 300 swings in roughly 20-25 minutes (15 emom is good enough), 2H swings
 ```
 
 ```
-MOBILITY
-  - Lower body (~6M)
-    - 1m -> 90/90 bent legs rotations
-    - 30s + 30s -> 90 bent legs fold
-    - 30s -> frog pose
-    - 30s + 30s -> calves stretch
-    - 30s + 30s -> deep squat
-  - Upper body:
-    - 3 x 10+5 -> trx Y + I
-    - 3 x 8 -> band external + internal rotations
-    - 3 x 8 -> rotator cuff forward rotation + lateral raise
-    - 3 x 5 -> arm wall walks (single arm sides + both arms front facing)
-    - 3 x 5 -> dumbbell raise lying on the side
+Biceps/Chest/Rows/Swings:
+- 10 sets of as many reps as fatigue allows (RPE 8)
+- bicep curls with min 6 max 10 kg, floor press with min 10 max 18 kg, bent over rows with min 12 max 20kg
+- do the swings with double 12kg bells in as little sets as possible
 ```
+
